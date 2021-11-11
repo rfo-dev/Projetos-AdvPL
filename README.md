@@ -1,2 +1,2 @@
 # Projetos-AdvPL
-Projetos em Advpl para sistemas Totvs Protheus.
+Fontes em Advpl para customizações em sistemas Totvs Protheus.
